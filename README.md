@@ -5,12 +5,11 @@
 2. Data Cleaning using Python
 3. Vizualize Results in Tableau 
 
-Data source: https://www.premierleague.com/
+#### Data source: https://www.premierleague.com/
 
 ### Link to Dashboard:
-
-Dashboard1 EPL Table and History: https://public.tableau.com/profile/jonathan.santoso#!/vizhome/PremierLeagueDashboard_15942491537150/Table <br/>
-Dashboard2 EPL Stats Center: https://public.tableau.com/profile/jonathan.santoso#!/vizhome/PremierLeagueDashboard_15942491537150/StatsCenter
+#### Dashboard 1 EPL Table and History: https://public.tableau.com/profile/jonathan.santoso#!/vizhome/PremierLeagueDashboard_15942491537150/Table <br/>
+#### Dashboard 2 EPL Stats Center: https://public.tableau.com/profile/jonathan.santoso#!/vizhome/PremierLeagueDashboard_15942491537150/StatsCenter
 
 ### Snapshots of the dashboard
 #### Dashboard 1: EPL Table and History

@@ -7,7 +7,7 @@
 
 #### Data source: https://www.premierleague.com/
 
-### Link to Dashboard:
+### Link to Interactive Tableau Dashboard:
 #### Dashboard 1 EPL Table and History: https://public.tableau.com/profile/jonathan.santoso#!/vizhome/PremierLeagueDashboard_15942491537150/Table <br/>
 #### Dashboard 2 EPL Stats Center: https://public.tableau.com/profile/jonathan.santoso#!/vizhome/PremierLeagueDashboard_15942491537150/StatsCenter
 
